@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[open Browser]]>
+    </line>
+    <line>
+      <![CDATA[Login To App]]>
+    </line>
+    <line>
+      <![CDATA[Running method V1]]>
+    </line>
+    <line>
+      <![CDATA[Logout From App]]>
+    </line>
+    <line>
+      <![CDATA[Login To App]]>
+    </line>
+    <line>
+      <![CDATA[Running method V2]]>
+    </line>
+    <line>
+      <![CDATA[Logout From App]]>
+    </line>
+    <line>
+      <![CDATA[Close  Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-22T18:47:00 IST" name="Default suite" finished-at="2023-02-22T18:47:00 IST" duration-ms="81">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T18:47:00 IST" name="Default test" finished-at="2023-02-22T18:47:00 IST" duration-ms="81">
+      <class name="TestNG.Annotation_2">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="openBrowser" finished-at="2023-02-22T18:47:00 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="loginToApp" finished-at="2023-02-22T18:47:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login To App]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="TC1()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="TC1" finished-at="2023-02-22T18:47:00 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running method V1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="LogoutFromApp()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="LogoutFromApp" finished-at="2023-02-22T18:47:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout From App]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogoutFromApp -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="loginToApp" finished-at="2023-02-22T18:47:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login To App]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="TC2()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="TC2" finished-at="2023-02-22T18:47:00 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running method V2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="LogoutFromApp()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="LogoutFromApp" finished-at="2023-02-22T18:47:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout From App]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogoutFromApp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNG.Annotation_2@3daa422a]" started-at="2023-02-22T18:47:00 IST" name="closeBrowser" finished-at="2023-02-22T18:47:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close  Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNG.Annotation_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
